@@ -1,5 +1,0 @@
-
-=== Error correction and assembling warnings:
- * 0:00:05.663     3M / 313M  WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
- * 0:00:06.335     4M / 270M  WARN    General                 (kmer_coverage_model.cpp   : 366)   Failed to determine erroneous kmer threshold. Threshold set to: 7
-======= Warnings saved to /mnt/beegfs/home/aubzxk001/shell_work/assembly_out$/warnings.log
