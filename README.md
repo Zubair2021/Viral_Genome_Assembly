@@ -1,5 +1,7 @@
 # Viral Genome Assembly & Variant Call
 
+![image](https://user-images.githubusercontent.com/90934096/235327743-44d88f45-9658-4d87-83f5-60bdca52df69.png)
+
 This repository is a composite of individual scripts a complete pipeline that generates VCF files. The complete piepline (viral_variant_call.sh) is recommended to be used as it automates the generation of required files. 
 
 A complete Bash script for variant calling using BWA-MEM and SAMtools on a cluster such as Alabama Super Computer (ASC) with the assumption that the modules used below are already installed on the cluster. The pipeline takes raw sequencing data in FASTQ format and a reference genome in FASTA format, and outputs variant calls in VCF format.
