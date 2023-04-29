@@ -1,7 +1,7 @@
 # Viral Genome Assembly & Variant Call
 ![image](https://user-images.githubusercontent.com/90934096/235327838-946bb971-7fbc-42f6-9c5e-49a3ab7dc84a.png) ![image](https://user-images.githubusercontent.com/90934096/235327864-c35ef15c-a066-4c8b-885c-e46c54c679d9.png)![image](https://user-images.githubusercontent.com/90934096/235327874-ce001b21-a9b8-4f1e-b309-f270e6fe12c5.png)
 
-PS: AI-generated pictures of viruses
+Unrelated: AI-generated cool pictures of viruses
 
 This repository is a composite of individual scripts a complete pipeline that generates VCF files. The complete piepline (viral_variant_call.sh) is recommended to be used as it automates the generation of required files. 
 
