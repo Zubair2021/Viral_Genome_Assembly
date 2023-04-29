@@ -16,7 +16,7 @@ Before running the script, you should make sure that the following modules are l
 The availability of the module on your cluster can be checked by 
 <p><code>module avail &lt;tool_name&gt;</code></p>
 
-## Input
+## Inputs
 
 The pipeline requires two inputs:
 1. Directory containing the raw sequencing files
@@ -28,7 +28,8 @@ Make the file executable by using chmod +x and run the pipeline using:
 <p><code>./viral_variant_call.sh</code></p>
 
 The program will prompt for the name/path to the raw FASTQ files directory and the reference genome
-## Output
+
+## Outputs
 The pipeline outputs sample_wise files into the following directories:
 
 1. final_bam_files: Directory containing the final sorted BAM files.
