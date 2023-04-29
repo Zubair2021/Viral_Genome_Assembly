@@ -1,6 +1,6 @@
 # Viral Genome Assembly & Variant Call
 
-![image](https://user-images.githubusercontent.com/90934096/235327743-44d88f45-9658-4d87-83f5-60bdca52df69.png)
+## ![image](https://user-images.githubusercontent.com/90934096/235327743-44d88f45-9658-4d87-83f5-60bdca52df69.png)
 
 This repository is a composite of individual scripts a complete pipeline that generates VCF files. The complete piepline (viral_variant_call.sh) is recommended to be used as it automates the generation of required files. 
 
